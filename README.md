@@ -11,3 +11,10 @@ Aplicación WeBuild x Ironhack resuelta
   - Resultados inferiores: consigue mostrar el precio medio de todos los productos seleccionados, así como el aporte calórico medio.
   
   ¡Ánimo!
+
+
+## Cómo descargar los archivos
+
+- Haz click sobre el botón verde en la esquina superior derecha **_Clone or download_**
+- Selecciona **_Download ZIP_**
+- Descarga y descomprime los archivos
